@@ -1,6 +1,6 @@
 <?php
 
 print "Hello World\n";
-phpinfo();
+#phpinfo();
 #print " My Server is Running";
 ?>
